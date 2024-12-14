@@ -1,0 +1,4 @@
+trainer:
+  max_epochs: 5
+  accelerator: cpu
+  devices: 1

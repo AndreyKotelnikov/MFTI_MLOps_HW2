@@ -1,0 +1,5 @@
+data:
+  size: 1000          # размер датасета
+  vector_dim: 10       # размерность вектора распределения
+  batch_size: 32
+  num_workers: 4

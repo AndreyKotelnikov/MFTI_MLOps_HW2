@@ -1,0 +1,3 @@
+include vector-entropy/src/*.h
+include vector-entropy/src/*.cpp
+include vector-entropy/python/*.cpp
